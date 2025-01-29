@@ -1,13 +1,13 @@
 **Home page**
-![image alt](https://github.com/suryabisht00/next-role-based-authentication/blob/13b4d51b6e8e148264c9ec7915fe65f8512dbcb1/mongo%20photScreenshot%2025-01-29%125731.png)
+![image alt](https://github.com/suryabisht00/next-role-based-authentication/blob/d71de72b7902f8a7e7327c9353792fd2ef792ca6/mongo%20phot/Screenshot%202025-01-29%20125731.png)
 **Profile Page**
-![image alt](https://github.com/suryabisht00/next-role-based-authentication/blob/13b4d51b6e8e148264c9ec7915fe65f8512dbcb1/mongo%20photScreenshot%2025-01-29%125755.png)
+![image alt](https://github.com/suryabisht00/next-role-based-authentication/blob/d71de72b7902f8a7e7327c9353792fd2ef792ca6/mongo%20phot/Screenshot%202025-01-29%20125755.png)
 **Loading Bar**
-![image alt](https://github.com/suryabisht00/next-role-based-authentication/blob/13b4d51b6e8e148264c9ec7915fe65f8512dbcb1/mongo%20photScreenshot%2025-01-29%125814.png)
+![image alt](https://github.com/suryabisht00/next-role-based-authentication/blob/d71de72b7902f8a7e7327c9353792fd2ef792ca6/mongo%20phot/Screenshot%202025-01-29%20125814.png)
 **Main Admin Pannel**
-![image alt](https://github.com/suryabisht00/next-role-based-authentication/blob/13b4d51b6e8e148264c9ec7915fe65f8512dbcb1/mongo%20photScreenshot%2025-01-29%125831.png)
+![image alt](https://github.com/suryabisht00/next-role-based-authentication/blob/d71de72b7902f8a7e7327c9353792fd2ef792ca6/mongo%20phot/Screenshot%202025-01-29%20125831.png)
 **All Tables Ans Data Pesent In DB**
-![image alt](https://github.com/suryabisht00/next-role-based-authentication/blob/13b4d51b6e8e148264c9ec7915fe65f8512dbcb1/mongo%20photScreenshot%2025-01-29%125906.png)
+![image alt](https://github.com/suryabisht00/next-role-based-authentication/blob/d71de72b7902f8a7e7327c9353792fd2ef792ca6/mongo%20phot/Screenshot%202025-01-29%20125906.png)
 
 
 
