@@ -1,3 +1,18 @@
+**Home page**
+![image alt](https://github.com/suryabisht00/next-role-based-authentication/blob/13b4d51b6e8e148264c9ec7915fe65f8512dbcb1/mongo%20photScreenshot%2025-01-29%125731.png)
+**Profile Page**
+![image alt](https://github.com/suryabisht00/next-role-based-authentication/blob/13b4d51b6e8e148264c9ec7915fe65f8512dbcb1/mongo%20photScreenshot%2025-01-29%125755.png)
+**Loading Bar**
+![image alt](https://github.com/suryabisht00/next-role-based-authentication/blob/13b4d51b6e8e148264c9ec7915fe65f8512dbcb1/mongo%20photScreenshot%2025-01-29%125814.png)
+**Main Admin Pannel**
+![image alt](https://github.com/suryabisht00/next-role-based-authentication/blob/13b4d51b6e8e148264c9ec7915fe65f8512dbcb1/mongo%20photScreenshot%2025-01-29%125831.png)
+**All Tables Ans Data Pesent In DB**
+![image alt](https://github.com/suryabisht00/next-role-based-authentication/blob/13b4d51b6e8e148264c9ec7915fe65f8512dbcb1/mongo%20photScreenshot%2025-01-29%125906.png)
+
+
+
+
+
 Certainly! I've added instructions for finding the GitHub ID and Secret to the `README.md` file:
 
 ```markdown
@@ -80,3 +95,28 @@ NEXTAUTH_URL="http://localhost:3000"
 AUTH_TRUST_HOST="http://localhost:3000"
 ```
 
+Follow these instruction to get Mongo atlas api key-
+- [MongoDB Official Website](https://www.mongodb.com/)
+![image alt](https://github.com/suryabisht00/next-role-based-authentication/blob/13b4d51b6e8e148264c9ec7915fe65f8512dbcb1/mongo%20phot/Screenshot%202025-01-27%20000401.png)
+![image alt](https://github.com/suryabisht00/next-role-based-authentication/blob/13b4d51b6e8e148264c9ec7915fe65f8512dbcb1/mongo%20phot/Screenshot%202025-01-27%20000419.png)
+![image alt](https://github.com/suryabisht00/next-role-based-authentication/blob/13b4d51b6e8e148264c9ec7915fe65f8512dbcb1/mongo%20phot/Screenshot%202025-01-27%20000434.png)
+![image alt](https://github.com/suryabisht00/next-role-based-authentication/blob/13b4d51b6e8e148264c9ec7915fe65f8512dbcb1/mongo%20phot/Screenshot%202025-01-27%20000455.png)
+![image alt](https://github.com/suryabisht00/next-role-based-authentication/blob/13b4d51b6e8e148264c9ec7915fe65f8512dbcb1/mongo%20phot/Screenshot%202025-01-27%20000517.png)
+![image alt](https://github.com/suryabisht00/next-role-based-authentication/blob/13b4d51b6e8e148264c9ec7915fe65f8512dbcb1/mongo%20phot/Screenshot%202025-01-27%20000607.png)
+![image alt](https://github.com/suryabisht00/next-role-based-authentication/blob/13b4d51b6e8e148264c9ec7915fe65f8512dbcb1/mongo%20phot/Screenshot%202025-01-27%20000655.png)
+![image alt](https://github.com/suryabisht00/next-role-based-authentication/blob/13b4d51b6e8e148264c9ec7915fe65f8512dbcb1/mongo%20phot/Screenshot%202025-01-27%20000707.png)
+![image alt](https://github.com/suryabisht00/next-role-based-authentication/blob/13b4d51b6e8e148264c9ec7915fe65f8512dbcb1/mongo%20phot/Screenshot%202025-01-27%20000737.png)
+![image alt](https://github.com/suryabisht00/next-role-based-authentication/blob/13b4d51b6e8e148264c9ec7915fe65f8512dbcb1/mongo%20phot/Screenshot%202025-01-27%20000822.png)
+![image alt](https://github.com/suryabisht00/next-role-based-authentication/blob/13b4d51b6e8e148264c9ec7915fe65f8512dbcb1/mongo%20phot/Screenshot%202025-01-27%20000903.png)
+![image alt](https://github.com/suryabisht00/next-role-based-authentication/blob/13b4d51b6e8e148264c9ec7915fe65f8512dbcb1/mongo%20phot/Screenshot%202025-01-27%20000933.png)
+![image alt](https://github.com/suryabisht00/next-role-based-authentication/blob/13b4d51b6e8e148264c9ec7915fe65f8512dbcb1/mongo%20phot/Screenshot%202025-01-27%20000951.png)
+![image alt](https://github.com/suryabisht00/next-role-based-authentication/blob/13b4d51b6e8e148264c9ec7915fe65f8512dbcb1/mongo%20phot/Screenshot%202025-01-27%20001017.png)
+![image alt](https://github.com/suryabisht00/next-role-based-authentication/blob/13b4d51b6e8e148264c9ec7915fe65f8512dbcb1/mongo%20phot/Screenshot%202025-01-27%20001028.png)
+![image alt](https://github.com/suryabisht00/next-role-based-authentication/blob/13b4d51b6e8e148264c9ec7915fe65f8512dbcb1/mongo%20phot/Screenshot%202025-01-27%20001132.png)
+![image alt](https://github.com/suryabisht00/next-role-based-authentication/blob/13b4d51b6e8e148264c9ec7915fe65f8512dbcb1/mongo%20phot/Screenshot%202025-01-27%20001324.png)
+
+
+**To access the admin dashboard, manually create the admin for the first time.**
+![image alt](https://github.com/suryabisht00/next-role-based-authentication/blob/13b4d51b6e8e148264c9ec7915fe65f8512dbcb1/mongo%20phot/Screenshot%202025-01-29%20112151.png)
+![image alt](https://github.com/suryabisht00/next-role-based-authentication/blob/13b4d51b6e8e148264c9ec7915fe65f8512dbcb1/mongo%20phot/Screenshot%202025-01-29%20112234.png)
+![image alt](https://github.com/suryabisht00/next-role-based-authentication/blob/13b4d51b6e8e148264c9ec7915fe65f8512dbcb1/mongo%20phot/Screenshot%202025-01-29%20112336.png)
