@@ -79,4 +79,4 @@ DATABASE_URL="****************************"
 NEXTAUTH_URL="http://localhost:3000"
 AUTH_TRUST_HOST="http://localhost:3000"
 ```
-
+![image alt](https://github.com/suryabisht00/next-role-based-authentication/blob/8de0afaba6813bffff696cf1652bdd582f121623/mongo%20phot/Screenshot%202025-01-27%20000401.png)
