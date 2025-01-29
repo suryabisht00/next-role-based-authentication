@@ -6,14 +6,11 @@
 ![image alt](https://github.com/suryabisht00/next-role-based-authentication/blob/d71de72b7902f8a7e7327c9353792fd2ef792ca6/mongo%20phot/Screenshot%202025-01-29%20125814.png)
 **Main Admin Pannel**
 ![image alt](https://github.com/suryabisht00/next-role-based-authentication/blob/d71de72b7902f8a7e7327c9353792fd2ef792ca6/mongo%20phot/Screenshot%202025-01-29%20125831.png)
-**All Tables Ans Data Pesent In DB**
+**All Tables And Data Pesent In DB**
 ![image alt](https://github.com/suryabisht00/next-role-based-authentication/blob/d71de72b7902f8a7e7327c9353792fd2ef792ca6/mongo%20phot/Screenshot%202025-01-29%20125906.png)
 
 
 
-
-
-Certainly! I've added instructions for finding the GitHub ID and Secret to the `README.md` file:
 
 ```markdown
 # Project Setup Instructions
