@@ -1,0 +1,35 @@
+# Ignore dependencies in the project folder
+nextjs-fullstack-auth-edge/node_modules/
+nextjs-fullstack-auth-edge/.pnp/
+nextjs-fullstack-auth-edge/.pnp.js
+nextjs-fullstack-auth-edge/.yarn/install-state.gz
+
+# Testing
+nextjs-fullstack-auth-edge/coverage/
+
+# Next.js
+nextjs-fullstack-auth-edge/.next/
+nextjs-fullstack-auth-edge/out/
+
+# Production
+nextjs-fullstack-auth-edge/build/
+
+# Misc
+nextjs-fullstack-auth-edge/.DS_Store
+nextjs-fullstack-auth-edge/*.pem
+
+# Debug
+nextjs-fullstack-auth-edge/npm-debug.log*
+nextjs-fullstack-auth-edge/yarn-debug.log*
+nextjs-fullstack-auth-edge/yarn-error.log*
+
+# Local env files
+nextjs-fullstack-auth-edge/.env*.local
+
+# Vercel
+nextjs-fullstack-auth-edge/.vercel
+
+# TypeScript
+nextjs-fullstack-auth-edge/*.tsbuildinfo
+nextjs-fullstack-auth-edge/next-env.d.ts
+nextjs-fullstack-auth-edge/.env
